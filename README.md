@@ -3,7 +3,8 @@ SafeAI proposal
 
 # Dataset & Code (with model.pth file)
 
-follow the link below👇 \\
+follow the link below👇 
+
 https://drive.google.com/drive/folders/1iOYyrxvuICWFIAPBAlKXwLxfuRuBG1Ft?usp=sharing
 
 
